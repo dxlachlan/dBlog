@@ -25,15 +25,4 @@ build:
         theme: cocoa
         flags: --buildDrafts=true
 
-        # Deploy Step here...
-        # Deploy Step here...
-
-    deploy: 
-        steps:
-            - install-packages:
-                packages: git ssh-client
-            - leipert/git-push:
-                gh_oauth: $GIT_TOKEN
-                repo: dxlachlan/dxlachlan.github.io
-                branch: master
-                basedir: public
+    
