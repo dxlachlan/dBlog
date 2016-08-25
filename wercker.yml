@@ -25,6 +25,9 @@ build:
         theme: cocoa
         flags: --buildDrafts=true
 
+        # Deploy Step here...
+        
+
 deploy: 
     steps:
         - install-packages:
