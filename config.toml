@@ -1,12 +1,12 @@
-baseurl = "https://you.github.io/" 
+baseurl = "https://dxlachlan.github.io/" 
 builddrafts = false
 canonifyurls = true
 contentdir = "content"
 languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
-author = "Arthur Dent"
-title = "Arthur Dent"
+author = "Daniel L. Campbell"
+title = "Daniel L. Campbell"
 pygmentsuseclasses = true
 disqusShortname = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
@@ -16,17 +16,17 @@ fixed = ":title/"
 blog = "blog/:slug/"
 
 [params]
-Author = "Arthur Dent"
+Author = "Daniel L. Campbell"
 CacheBuster = true
 DateForm = "Jan 2, 2006"
 DateFormFull = "Mon Jan 2 2006 15:04:05 MST"
 Description = "Don't panic"
-Email = "you@example.space"
+Email = "dcampb44@uncc.edu"
 FaviconFile = "img/leaf.ico"
 GATracker = "XYZ"
-GitHub = "//github.com/you"
+GitHub = "//github.com/dxlachlan"
 Initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
 Lang = "en"
 LinkedIn = "//linkedin.com/in/you"
-Twitter = "//twitter.com/you"
+Twitter = "//twitter.com/danielxlachlan"
 ExtraCssFiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.
