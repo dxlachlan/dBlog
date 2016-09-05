@@ -8,7 +8,7 @@ publishdir = "public"
 author = "Daniel L. Campbell"
 title = "Daniel L. Campbell"
 pygmentsuseclasses = true
-disqusShortname = "cocoaexamplesite" # Comment out to disable Disqus.
+#disqusShortname = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
 
 [permalinks]
