@@ -10,10 +10,7 @@ title = "First Week"
 
 <br><br>
 
-<img src="http://imgur.com/IbW1aa4" title="Fuchinobe Station" width="460" height="340" border="2" />
-
-{{< figure src="/media/spf13.jpg" title="Steve Francia" >}}
-
+{{<figure src="../img/fuchinobeStation.jpg" title="Fuchinobe Station" width="460" height="340" border="2">}}
 
 <br><br>
 
@@ -21,7 +18,7 @@ title = "First Week"
 
 <br><br>
 
-<img src="http://i.imgur.com/rFwOQxf.jpg" title="Obirin 桜美林大学, Machida-Shi, Tokyo, Japan " width="460" height="340" border="2" />
+{{<figure src="../img/obirinScenery.jpg" title="Obirin 桜美林大学, Machida-Shi, Tokyo, Japan " width="460" height="340" border="2">}}
 
 
 <br><br>
@@ -30,7 +27,7 @@ title = "First Week"
 
 <br><br>
 
-<img src="http://i.imgur.com/sfp2stK.jpg" title="Carpe Diem BJJ - Aoyama, Tokyo, Japan " width="460" height="340" border="2" />
+{{<figure src="../img/carpeDiemAoyama.jpg" title="Carpe Diem BJJ - Aoyama, Tokyo, Japan " width="460" height="340" border="2">}}
 
 <br><br>
 
@@ -38,7 +35,7 @@ title = "First Week"
 
 <br><br>
 
-<img src="http://i.imgur.com/IbW1aa4.jpg" title="Downtown Shibuya, Tokyo, Japan" with="460" height="340" border="2" />
+{{<figure src="../img/shibuya.jpg" title="Downtown Shibuya, Tokyo, Japan" with="460" height="340" border="2">}}
 
 <br><br>
 
