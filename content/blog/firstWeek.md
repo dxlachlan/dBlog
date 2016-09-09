@@ -18,7 +18,7 @@ title = "First Week"
 
 <br><br>
 
-{{< figure src="http://imgur.com/rFwOQxf" title="Obirin 桜美林大学, Machida-Shi, Tokyo, Japan " width="460" height="340" border="2">}}
+{{< figure src="http://i.imgur.com/rFwOQxf.jpg" title="Obirin 桜美林大学, Machida-Shi, Tokyo, Japan " width="460" height="340" border="2">}}
 
 
 <br><br>
@@ -27,7 +27,7 @@ title = "First Week"
 
 <br><br>
 
-{{< figure src="http://imgur.com/sfp2stK" title="Carpe Diem BJJ - Aoyama, Tokyo, Japan " width="460" height="340" border="2">}}
+{{< figure src="http://i.imgur.com/sfp2stK.jpg" title="Carpe Diem BJJ - Aoyama, Tokyo, Japan " width="460" height="340" border="2">}}
 
 <br><br>
 
@@ -35,7 +35,7 @@ title = "First Week"
 
 <br><br>
 
-{{< figure src="http://imgur.com/SYB72XH" title="Downtown Shibuya, Tokyo, Japan" with="460" height="340" border="2">}}
+{{< figure src="http://i.imgur.com/IbW1aa4.jpg" title="Downtown Shibuya, Tokyo, Japan" with="460" height="340" border="2">}}
 
 <br><br>
 
