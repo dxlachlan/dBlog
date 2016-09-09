@@ -7,6 +7,10 @@ title = "ニューヨークから町田市に旅行する"
 
 <center>
 
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="http://www.youtube.com/watch?feature=player_embedded&v=CkC0iKbhz78" width="480" height="360" border="1"></iframe>
+</div>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=CkC0iKbhz78" target="_blank"><img src="http://img.youtube.com/vi/CkC0iKbhz78/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="1" /></a>
 
