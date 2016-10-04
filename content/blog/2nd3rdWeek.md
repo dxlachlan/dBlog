@@ -1,7 +1,7 @@
 +++
-date = "2016-09-30T08:38:21-07:00"
+date = "2016-09-30T06:38:21-07:00"
 draft = false
-title = "2nd + 3rd Week"
+title = "2nd and 3rd Week"
 
 +++
 
