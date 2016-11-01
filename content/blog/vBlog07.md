@@ -1,7 +1,7 @@
 +++
 date = "2016-10-16T23:36:13"
 draft = false
-title = "Video Blog Update: October 19th"
+title = "Video Blog Update: October 16th"
 
 +++
 
